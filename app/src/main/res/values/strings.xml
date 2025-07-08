@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="toss_the_coin">Toss the coin!</string>
+    <string name="head_tail_image">This is head and tail image</string>
+    <string name="toss_the_coin_button">Toss Coin</string>
+    <string name="head">You got Head</string>
+    <string name="tail">You got tail</string>
+</resources>
